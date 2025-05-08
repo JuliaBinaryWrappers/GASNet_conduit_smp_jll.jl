@@ -1,0 +1,58 @@
+[[GASNet_conduit_smp]]
+arch = "aarch64"
+git-tree-sha1 = "fd4fd976e34b340dddfa50fdea7460a675ae2c31"
+lazy = true
+os = "macos"
+
+    [[GASNet_conduit_smp.download]]
+    sha256 = "1d4d2dd864d07fe08049566133e7e23bdef4599defce5370eb292dd5f00e31ee"
+    url = "https://github.com/JuliaBinaryWrappers/GASNet_conduit_smp_jll.jl/releases/download/GASNet_conduit_smp-v2024.5.0+0/GASNet_conduit_smp.v2024.5.0.aarch64-apple-darwin.tar.gz"
+[[GASNet_conduit_smp]]
+arch = "aarch64"
+git-tree-sha1 = "1c3c7bcf8c4f638b7b06e34190eece1b8e6e3ef5"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[GASNet_conduit_smp.download]]
+    sha256 = "36d5c9586474da1c14b2281b0855d0801dbd61fbb42f3bab44b0ffaf0f016557"
+    url = "https://github.com/JuliaBinaryWrappers/GASNet_conduit_smp_jll.jl/releases/download/GASNet_conduit_smp-v2024.5.0+0/GASNet_conduit_smp.v2024.5.0.aarch64-linux-gnu.tar.gz"
+[[GASNet_conduit_smp]]
+arch = "aarch64"
+git-tree-sha1 = "978e3d44389c47c24acde3f6b0b91c39aaf55d39"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[GASNet_conduit_smp.download]]
+    sha256 = "72efd1f9e4aee8827b4981496aa1ab5befcaabb9b14bd12931a43896727f5ad6"
+    url = "https://github.com/JuliaBinaryWrappers/GASNet_conduit_smp_jll.jl/releases/download/GASNet_conduit_smp-v2024.5.0+0/GASNet_conduit_smp.v2024.5.0.aarch64-linux-musl.tar.gz"
+[[GASNet_conduit_smp]]
+arch = "x86_64"
+git-tree-sha1 = "2c103a1d28a8c61f0a947165c0e5f9fa0d138478"
+lazy = true
+os = "macos"
+
+    [[GASNet_conduit_smp.download]]
+    sha256 = "95ca97308b5820bab0df361a7c3b465a924cbb91b6071e9adf4e6f34b3db60dd"
+    url = "https://github.com/JuliaBinaryWrappers/GASNet_conduit_smp_jll.jl/releases/download/GASNet_conduit_smp-v2024.5.0+0/GASNet_conduit_smp.v2024.5.0.x86_64-apple-darwin.tar.gz"
+[[GASNet_conduit_smp]]
+arch = "x86_64"
+git-tree-sha1 = "ca85bedf486dde3a4f765427d69c094e7371535b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[GASNet_conduit_smp.download]]
+    sha256 = "2a0470c7228ace0150257686801b9b710684ee549c8398cf20df5e4b1a0c3598"
+    url = "https://github.com/JuliaBinaryWrappers/GASNet_conduit_smp_jll.jl/releases/download/GASNet_conduit_smp-v2024.5.0+0/GASNet_conduit_smp.v2024.5.0.x86_64-linux-gnu.tar.gz"
+[[GASNet_conduit_smp]]
+arch = "x86_64"
+git-tree-sha1 = "25aa14f9e6f11c9439fdc77661e9f8244fdfd816"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[GASNet_conduit_smp.download]]
+    sha256 = "32427befaf34daa95b73938a0f7713b2799baf84b5220d5d2353d2fcec8a6ea0"
+    url = "https://github.com/JuliaBinaryWrappers/GASNet_conduit_smp_jll.jl/releases/download/GASNet_conduit_smp-v2024.5.0+0/GASNet_conduit_smp.v2024.5.0.x86_64-linux-musl.tar.gz"
